@@ -6,6 +6,7 @@ What better way to learn a language and new concepts exists other than practicin
 
 ## Data Structures
 
+* Linked List [Implementation](https://github.com/dnutiu/dsa-java/blob/main/src/main/java/dev/nuculabs/dsa/data_structures/linked_list/LinkedList.java) | [Tests](https://github.com/dnutiu/dsa-java/blob/main/src/test/java/dev/nuculabs/dsa/data_structures/linked_list/LinkedListTest.java)
 
 ## Ranking
 
